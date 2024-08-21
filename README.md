@@ -42,3 +42,7 @@ docker run --rm \
 ### 6- Pupolate Storylines  Data
 - command : ```./vendor/bin/sail db:seed```
 
+``` 
+All Enpoints and api docs are included in the mail as a postman collection 
+```
+
